@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"avatarUrl": "https://cdni.iconscout.com/illustration/premium/thumb/female-avatar-8187688-6590630.png",
+		"name": "Тестовый Пользователь",
+		"numberPhone": "89009999999",
+		"lastMessage": "Привет. Это тестовое сообщение. Можешь не отвечать на него",
+		"lastMessageTime": "14:17",
+		"countUnreadMessage": 2
+	},
+	{
+		"id": 2,
+		"avatarUrl": "https://cdn.iconscout.com/icon/free/png-256/free-avatar-370-456322.png?f=webp",
+		"name": "Артём Руденко",
+		"numberPhone": "89009999988",
+		"lastMessage": "Тест",
+		"lastMessageTime": "14:23",
+		"countUnreadMessage": 0
+	},
+	{
+		"id": 3,
+		"avatarUrl": "https://cdn-icons-png.flaticon.com/512/8090/8090406.png",
+		"name": "Иван Иванов",
+		"numberPhone": "89009999977",
+		"lastMessage": "Тест",
+		"lastMessageTime": "14:23",
+		"countUnreadMessage": 0
+	},
+]
